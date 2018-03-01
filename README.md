@@ -2,4 +2,4 @@
 
 Album swiper is an example of the implementation of code from the Ionic Framework and some CSS 3D translations. You can see it working in the video linked below.
 
-![Example GIF](https://lh6.googleusercontent.com/_ZexPtCUxPHLNbA23qH5pscNqU3GNYQBA_6AWL3-fT4562DIlGVQMIRNRuoH3zqivL2Sjs1D4bnret7dIJjH=w1922-h902-rw)
+![Example GIF](https://b8d24ddd5ff7cb215561-a9f3bc8c7de99d29222a4bd5898f7e6a.ssl.cf2.rackcdn.com/AlbumSwipe.gif)
